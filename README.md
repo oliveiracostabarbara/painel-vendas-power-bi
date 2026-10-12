@@ -19,7 +19,7 @@ mensais de vendas (julho a setembro de 2026) e um cadastro de 8
 produtos, com 718 linhas de venda no total. Os arquivos chegam com
 problemas propositais, comuns na vida real:
 
-![Base de dados original](painel vendas power bi/imagens/base_dados.png)
+![Base de dados original](painel-vendas-power-bi/painel vendas power bi/imagens/base_dados.png)
 
 | Problema                                         | Quanto    |
 |--------------------------------------------------|-----------|
