@@ -19,7 +19,7 @@ mensais de vendas (julho a setembro de 2026) e um cadastro de 8
 produtos, com 718 linhas de venda no total. Os arquivos chegam com
 problemas propositais, comuns na vida real:
 
-![Base de dados original](painel-vendas-power-bi/painel vendas power bi/imagens/base_dados.png)
+![Base de dados original](painel%20vendas%20power%20bi/imagens/base_dados.png)
 
 | Problema                                         | Quanto    |
 |--------------------------------------------------|-----------|
@@ -47,7 +47,7 @@ problemas propositais, comuns na vida real:
 - Juntei o cadastro de produtos para trazer categoria e custo, e
   calculei o custo de cada venda.
 
-![Dados tratados no Power Query](imagens/dados_tratados.png)
+![Dados tratados no Power Query](painel%20vendas%20power%20bi/imagens/dados_tratados.png)
 
 **Modelo e medidas**
 
@@ -69,7 +69,7 @@ problemas propositais, comuns na vida real:
 
 Layout planejado antes da construção:
 
-![Layout do painel](imagens/layout_painel_vendas.png)
+![Layout do painel](painel%20vendas%20power%20bi/imagens/layout_painel_vendas.png)
 
 ## Resultado
 
@@ -91,7 +91,7 @@ Números do período (julho a setembro de 2026, todas as lojas):
 Por mês: julho R\$ 37.393,52, agosto R\$ 34.175,19 (−8,6%) e setembro
 R\$ 36.025,03 (+5,4%).
 
-![Painel pronto (setembro)](imagens/painel_pronto_set.png)
+![Painel pronto (setembro)](painel%20vendas%20power%20bi/imagens/painel_pronto_set.png)
 
 ## Como atualizar
 
